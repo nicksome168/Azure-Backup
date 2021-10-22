@@ -76,6 +76,7 @@ d. 設定此次備份「保留備份到」，預設是30天。完成按下確定
 <img width="670" alt="Screen Shot 2021-10-22 at 11 06 17 AM" src="https://user-images.githubusercontent.com/29058993/138416792-65e8b128-8019-4990-9323-1a7681771a2f.png">
 
 e. 完成備份後會在備份項目下方看到一個備份是「應用程式保持一致」且類型為「快照集」，參考[快照集一致性官方文件](https://docs.microsoft.com/zh-tw/azure/backup/backup-azure-vms-introduction#snapshot-consistency)
+
 <img width="1190" alt="Screen Shot 2021-10-22 at 12 00 32 PM" src="https://user-images.githubusercontent.com/29058993/138416827-d4bbc22e-6685-4e54-8011-537e6b12fd0f.png">
 
 

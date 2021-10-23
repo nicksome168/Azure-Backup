@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/29058993/138418738-7fd45944-c621-48bb-8d0c-42b6668ca2ee.png)
 
 ## 步驟
-1. [建立Azure VM備份還原點（略）](link)
+1. [建立Azure VM備份還原點（略）](https://github.com/nicksome168/Azure-Backup/tree/main/tutorial-backup-vm-at-scale)
 2. 下載執行腳本與指令碼
 3. 執行腳本並設定磁碟區域，還原檔案
 5. 卸載磁碟
